@@ -13,4 +13,10 @@ public class Test1 {
 
         return avg;
     }
+
+    public static double addition1(double a, double b) {
+        double addit = a + b;
+
+        return addit;
+    }
 }
